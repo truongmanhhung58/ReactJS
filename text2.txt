@@ -1,5 +1,7 @@
 tính năng 1
 tinh nang 2 
 sửa tính năng 1 bla bla
+add feature2 
+add 
 fix feature 1
 bug
