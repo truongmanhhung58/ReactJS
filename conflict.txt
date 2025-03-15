@@ -1,3 +1,0 @@
-readme new
-conflict 
-add
