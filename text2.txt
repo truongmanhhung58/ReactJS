@@ -2,3 +2,4 @@ tính năng 1
 tinh nang 2 
 sửa tính năng 1 bla bla
 fix feature 1
+bug
