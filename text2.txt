@@ -7,8 +7,4 @@ fix feature 1
 bug
 add feature
 add 
-<<<<<<< HEAD
-add 
-=======
 add fix2 
->>>>>>> 740b896fe69f458bbe9b67089aab93a35e8072fc
